@@ -3,10 +3,10 @@ Facebook Audience Network Cordova Plugin for Heyzap
 
 This is a custom Apache Cordova plugin for Facebook Audience Network to be used with the [Heyzap Cordova Plugin](github.com/Heyzap/heyzap-cordova). The plugin simply adds the Facebook Audience Network sdk to both the iOS and Android platform projects in your Cordova project, along with the appropriate dependencies and permissions.
 
-SDK Verisons
+SDK Verisons - 2/2019
 ------------
-- iOS: 4.26.0
-- Android: 4.26.1
+- iOS: 5.2.0 
+- Android: 5.2.0
 
 Installing:
 ```
