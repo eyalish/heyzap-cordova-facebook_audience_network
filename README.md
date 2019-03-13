@@ -10,7 +10,7 @@ SDK Verisons - 2/2019
 
 Installing:
 ```
-cordova plugin add https://github.com/Heyzap/heyzap-cordova-facebook_audience_network.git
+cordova plugin add https://github.com/eyalish/heyzap-cordova-facebook_audience_network.git
 ```
 
 Supported Platforms
